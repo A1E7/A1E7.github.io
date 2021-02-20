@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     background-position: top;
-    background-image: url(/title-background.jpg);
+    background-image: url(../assets/title-background.jpg);
     &--fullfilled {
         height: 100vh;
     }
